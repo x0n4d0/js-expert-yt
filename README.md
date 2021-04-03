@@ -4,4 +4,4 @@
 
 ## **Tópicos**
 
-- [01 - Sintaxe do JavaScript](https://github.com/x0n4d0/js-expert-yt/master/01-sintaxe-do-javascript)
+- [01 - Sintaxe do JavaScript](https://github.com/x0n4d0/js-expert-yt/tree/main/01-sintaxe-do-javascript)
